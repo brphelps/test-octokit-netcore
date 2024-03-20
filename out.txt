@@ -1,0 +1,8 @@
+Did the query for RUBYGEMS
+GSA_kwCzR0hTQS12bTY5LTQ3NHYtN3Eyd83iMA 5/5/2022 2:48:41 AM +00:00
+Did the query for MAVEN
+Did the query for NPM
+Did the query for PIP
+Did the query for NUGET
+Did the query for GO
+Did the query for RUST

@@ -7,4 +7,9 @@
     <RootNamespace>vscode_remote_try_dotnet</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Octokit" Version="10.0.0" />
+    <PackageReference Include="Octokit.GraphQL" Version="0.2.0-beta" />
+  </ItemGroup>
+
 </Project>
